@@ -1,7 +1,7 @@
 ---
 title: "⚙️ OpenMower Configuration"
 nav_order: 6
-permalink: /06_configuration_openmower/
+permalink: /06_configuration_openmower_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
