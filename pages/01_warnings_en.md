@@ -1,7 +1,7 @@
 ---
 title: "⚠️ Warnings"
 nav_order: 1
-permalink: /01_avertissements/
+permalink: /01_warnings_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
