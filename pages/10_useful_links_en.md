@@ -1,7 +1,7 @@
 ---
 title: "🔗 Useful Links"
 nav_order: 10
-permalink: /10_useful_links/
+permalink: /10_useful_links_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
