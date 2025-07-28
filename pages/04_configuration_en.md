@@ -1,7 +1,7 @@
 ---
 title: "mowgli/OpenMower Configuration"
 nav_order: 4
-permalink: /04_configuration/
+permalink: /04_configuration_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
