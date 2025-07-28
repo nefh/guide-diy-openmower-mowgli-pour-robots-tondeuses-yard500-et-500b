@@ -1,8 +1,8 @@
 ---
 title: "🛠️ Ser2Net"
 nav_order: 97
+permalink: /97_ser2net_en/
 parent: "🏠 OpenMower Guide"
-permalink: /ser2net/
 layout: default
 ---
 
