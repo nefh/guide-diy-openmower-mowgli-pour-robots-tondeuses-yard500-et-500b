@@ -1,7 +1,7 @@
 ---
 title: "🎁 Bonus: 3D Parts & Firmwares"
 nav_order: 7
-permalink: /07_bonus/
+permalink: /07_bonus_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
