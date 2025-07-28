@@ -1,7 +1,7 @@
 ---
 title: "🔗 Options"
 nav_order: 11
-permalink: /11_options/
+permalink: /11_options_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
