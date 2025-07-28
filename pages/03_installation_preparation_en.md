@@ -1,9 +1,10 @@
 ---
 title: "💾 Installation & Preparation"
 nav_order: 3
+permalink: /03_installation_preparation_en/
 parent: "🏠 OpenMower Guide"
 layout: default
-permalink: /03_installation_preparation/
+
 ---
 
 # 💾 Raspberry Pi Installation and Preparation
