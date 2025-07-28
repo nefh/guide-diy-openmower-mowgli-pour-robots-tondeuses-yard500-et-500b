@@ -1,6 +1,7 @@
 ---
 title: "📊 Wiring Diagram & Panel"
 nav_order: 98
+permalink: /98_schema_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
