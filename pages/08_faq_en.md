@@ -1,7 +1,7 @@
 ---
 title: "❓ FAQ"
 nav_order: 8
-permalink: /08_faq/
+permalink: /08_faq_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
