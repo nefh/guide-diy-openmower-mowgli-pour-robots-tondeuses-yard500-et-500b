@@ -1,7 +1,7 @@
 ---
 title: "💖 Support"
 nav_order: 9
-permalink: /09_support/
+permalink: /09_support_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
