@@ -42,7 +42,7 @@ They are available **for free** on my MakerWorld profile:
 👉 [Juditech3D MakerWorld profile](https://makerworld.com/en/@juditech3d)
 
 For more details about the recommended files and prints:  
-📦 [See the Bonus section]({{ '/07_bonus/' | relative_url }})
+📦 [See the Bonus section]({{ '/07_bonus_en/' | relative_url }})
 
 ---
 
