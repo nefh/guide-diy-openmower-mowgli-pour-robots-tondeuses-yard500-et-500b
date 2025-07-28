@@ -84,7 +84,7 @@ You will soon find:
   <div class="alert-title">🔁 Guide in constant evolution</div>
   This guide is updated regularly. Some steps may change depending on new firmware versions or the components you are using.
   <br>
-  👉 Remember to check the <a href="{{ '/mise_a_jour/' | relative_url }}">📝 Guide updates</a> page so you don’t miss anything.
+  👉 Remember to check the <a href="{{ '/99_updates_en/' | relative_url }}">📝 Guide updates</a> page so you don’t miss anything.
 </div>
 
 [⬅ Back to home]({{ '/' | relative_url }}) | [📑 Go to the Table of Contents]({{ '/pages/sommaire/' | relative_url }})
