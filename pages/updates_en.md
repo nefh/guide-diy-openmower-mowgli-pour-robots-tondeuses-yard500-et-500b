@@ -1,8 +1,8 @@
 ---
 title: "🛠️ Updates"
 nav_order: 99
+permalink: /99_updates_en/
 parent: "🏠 OpenMower Guide"
-permalink: /updates/
 layout: default
 ---
 
