@@ -1,6 +1,7 @@
 ---
 title: "🧰 Required hardware"
 nav_order: 2
+permalink: /02_required_hardware_en/
 parent: "🏠 OpenMower Guide"
 layout: default
 ---
